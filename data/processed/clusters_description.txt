@@ -1,0 +1,270 @@
+
+
+
+Destaques do cluster 0
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica numero de pedidos destaca-se menos de 4 (representa 41% do cluster e possui lift MEDIO);
+ - Na caracteristica média de preço do pedido destaca-se abaixo de R$3 (representa 55% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 0% (representa 89% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 0% (representa 97% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 0% (representa 98% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 0% (representa 87% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se 0% (representa 79% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se 67% a 88% (representa 37% do cluster e possui lift MEDIO), acima de 88% (representa 62% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se acima de 75% (representa 92% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se 67% a 88% (representa 37% do cluster e possui lift MEDIO), acima de 88% (representa 62% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 97% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se acima de 90% (representa 62% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 87% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se 50% a 100% (representa 62% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se 50% a 100% (representa 58% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se 5 a 7 (representa 33% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se 5 a 7 (representa 31% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se 5 a 7 (representa 33% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se menos 3 (representa 44% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se menos de 1 (representa 34% do cluster e possui lift MEDIO);
+
+
+
+Destaques do cluster 1
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica limite do cartão de crédito destaca-se acima de 79k (representa 31% do cluster e possui lift MEDIO);
+ - Na caracteristica faixa etária destaca-se 60+ anos (representa 41% do cluster e possui lift MEDIO);
+ - Na caracteristica numero de pedidos destaca-se 7 a 11 (representa 35% do cluster e possui lift ALTO);
+ - Na caracteristica média de preço do pedido destaca-se R$12 e R$20 (representa 42% do cluster e possui lift ALTISSIMO), R$20 e R$28 (representa 30% do cluster e possui lift ALTO);
+ - Na caracteristica tipo de oferta mais usada destaca-se bogo (representa 51% do cluster e possui lift MEDIO), desconto (representa 49% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se mais que 33% (representa 45% do cluster e possui lift ALTISSIMO), 17% a 33% (representa 43% do cluster e possui lift ALTO);
+ - Na caracteristica dias para usar uma oferta destaca-se 2 a 4 (representa 29% do cluster e possui lift ALTISSIMO), menos que 2 (representa 27% do cluster e possui lift ALTO), 2 (representa 30% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se 1 a 2 (representa 28% do cluster e possui lift ALTO), 2 a 3 (representa 31% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se mais que 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se mais que 71% (representa 92% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se mais que 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se mais que 89% (representa 65% do cluster e possui lift ALTISSIMO), 50% a 89% (representa 24% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se mais que 75% (representa 77% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 25% a 100% (representa 89% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se acima de 50% (representa 80% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se acima de 88% (representa 82% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se acima de 75% (representa 96% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se acima de 88% (representa 82% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 98% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se acima de 90% (representa 84% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 92% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se 50% a 100% (representa 85% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se 5 a 7 (representa 32% do cluster e possui lift ALTO), menos de 4 (representa 47% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se menos de 3 (representa 30% do cluster e possui lift MEDIO), 3 a 5 (representa 45% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se 5 a 7 (representa 32% do cluster e possui lift ALTO), menos de 4 (representa 47% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se 3 a 5 (representa 27% do cluster e possui lift ALTO), menos de 2 (representa 41% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se 4 a 6 (representa 32% do cluster e possui lift ALTO), menos 3 (representa 42% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se 2 a 3 (representa 13% do cluster e possui lift ALTO);
+
+
+
+Destaques do cluster 2
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica tipo de oferta mais usada destaca-se desconto (representa 59% do cluster e possui lift MEDIO), bogo (representa 41% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 0% a 17% (representa 57% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica dias para usar uma oferta destaca-se mais que 4 (representa 35% do cluster e possui lift ALTISSIMO), menos que 2 (representa 26% do cluster e possui lift ALTO), 2 a 4 (representa 21% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se mais que 3 (representa 29% do cluster e possui lift ALTISSIMO), menos que 1 (representa 26% do cluster e possui lift ALTO), 2 a 3 (representa 24% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 0% a 33% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 0% a 33% (representa 95% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 0% a 33% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 0% a 50% (representa 72% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 0% a 33% (representa 68% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 0% a 25% (representa 4% do cluster e possui lift ALTISSIMO), 0% (representa 43% do cluster e possui lift BAIXO), 25% a 100% (representa 41% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se 0% a 50% (representa 33% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se 67% a 88% (representa 42% do cluster e possui lift ALTO), acima de 88% (representa 58% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se acima de 75% (representa 91% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se 67% a 88% (representa 42% do cluster e possui lift ALTO), acima de 88% (representa 58% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 99% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se 60% a 90% (representa 33% do cluster e possui lift ALTO), acima de 90% (representa 60% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 89% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se 50% a 100% (representa 68% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se 50% a 100% (representa 71% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se 5 a 7 (representa 34% do cluster e possui lift ALTO), menos de 4 (representa 35% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se 5 a 7 (representa 33% do cluster e possui lift ALTISSIMO), 3 a 5 (representa 35% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se 5 a 7 (representa 34% do cluster e possui lift ALTO), menos de 4 (representa 35% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se 2 a 3 (representa 23% do cluster e possui lift ALTO), 3 a 5 (representa 24% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se menos 3 (representa 51% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se menos que 1 (representa 34% do cluster e possui lift MEDIO), 1 a 2 (representa 30% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se menos de 1 (representa 40% do cluster e possui lift ALTO), 1 a 2 (representa 33% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se mais de 2 (representa 30% do cluster e possui lift ALTISSIMO);
+
+
+
+Destaques do cluster 3
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica limite do cartão de crédito destaca-se abaixo de 49k (representa 37% do cluster e possui lift MEDIO);
+ - Na caracteristica numero de pedidos destaca-se menos de 4 (representa 47% do cluster e possui lift MEDIO);
+ - Na caracteristica média de preço do pedido destaca-se abaixo de R$3 (representa 50% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 0% (representa 94% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 0% (representa 92% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 0% (representa 100% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 0% (representa 86% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se 0% (representa 87% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se abaixo de 67% (representa 93% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se abaixo de 75% (representa 88% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se abaixo de 67% (representa 93% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 92% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se abaixo de 60% (representa 84% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 86% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se abaixo de 50% (representa 70% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se abaixo de 50% (representa 42% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se menos de 4 (representa 59% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se menos de 3 (representa 47% do cluster e possui lift MEDIO), 3 a 5 (representa 44% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se menos de 4 (representa 59% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se menos de 2 (representa 73% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se menos 3 (representa 54% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se menos que 1 (representa 39% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se menos de 1 (representa 34% do cluster e possui lift MEDIO), 1 a 2 (representa 32% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se menos de 1 (representa 45% do cluster e possui lift BAIXO);
+
+
+
+Destaques do cluster 4
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica faixa etária destaca-se 60+ anos (representa 41% do cluster e possui lift MEDIO);
+ - Na caracteristica numero de pedidos destaca-se mais de 11 (representa 38% do cluster e possui lift ALTO), 7 a 11 (representa 33% do cluster e possui lift MEDIO);
+ - Na caracteristica média de preço do pedido destaca-se R$12 e R$20 (representa 38% do cluster e possui lift ALTO), R$20 e R$28 (representa 30% do cluster e possui lift ALTO);
+ - Na caracteristica tipo de oferta mais usada destaca-se bogo (representa 47% do cluster e possui lift MEDIO), desconto (representa 53% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se mais que 33% (representa 46% do cluster e possui lift ALTISSIMO), 17% a 33% (representa 40% do cluster e possui lift ALTO);
+ - Na caracteristica dias para usar uma oferta destaca-se menos que 2 (representa 29% do cluster e possui lift ALTO), 2 (representa 33% do cluster e possui lift ALTO), 2 a 4 (representa 25% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se 1 a 2 (representa 29% do cluster e possui lift ALTO), 2 a 3 (representa 30% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se mais que 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se mais que 71% (representa 97% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se mais que 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se mais que 89% (representa 66% do cluster e possui lift ALTISSIMO), 50% a 89% (representa 24% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se mais que 75% (representa 87% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 25% a 100% (representa 74% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se acima de 50% (representa 73% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se acima de 88% (representa 87% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se acima de 75% (representa 98% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se acima de 88% (representa 87% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 99% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se acima de 90% (representa 75% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 88% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se 50% a 100% (representa 80% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se mais de 7 (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se mais de 7 (representa 94% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se mais de 7 (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se mais de 5 (representa 79% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se mais de 6 (representa 88% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se mais de 3 (representa 52% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se mais de 3 (representa 56% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se menos de 1 (representa 39% do cluster e possui lift MEDIO);
+
+
+
+Destaques do cluster 5
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica faixa etária destaca-se 60+ anos (representa 39% do cluster e possui lift MEDIO);
+ - Na caracteristica numero de pedidos destaca-se 7 a 11 (representa 29% do cluster e possui lift ALTO);
+ - Na caracteristica média de preço do pedido destaca-se R$12 e R$20 (representa 38% do cluster e possui lift ALTISSIMO), R$20 e R$28 (representa 26% do cluster e possui lift ALTO);
+ - Na caracteristica tipo de oferta mais usada destaca-se bogo (representa 45% do cluster e possui lift BAIXO), desconto (representa 55% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 17% a 33% (representa 45% do cluster e possui lift ALTISSIMO), mais que 33% (representa 28% do cluster e possui lift ALTO);
+ - Na caracteristica dias para usar uma oferta destaca-se menos que 2 (representa 26% do cluster e possui lift ALTO), 2 (representa 25% do cluster e possui lift ALTO), 2 a 4 (representa 24% do cluster e possui lift ALTO), mais que 4 (representa 25% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se menos que 1 (representa 23% do cluster e possui lift ALTO), 1 a 2 (representa 24% do cluster e possui lift ALTO), 2 a 3 (representa 29% do cluster e possui lift ALTO), mais que 3 (representa 25% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 33% a 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 33% a 71% (representa 88% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 33% a 71% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 50% a 89% (representa 33% do cluster e possui lift ALTISSIMO), 0% a 50% (representa 36% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 33% a 75% (representa 65% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 25% a 100% (representa 68% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se acima de 50% (representa 64% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se acima de 88% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se acima de 75% (representa 100% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se acima de 88% (representa 100% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 98% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se acima de 90% (representa 97% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 88% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se 50% a 100% (representa 86% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se 50% a 100% (representa 71% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se menos de 4 (representa 40% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se menos de 3 (representa 31% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se menos de 4 (representa 40% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se menos 3 (representa 45% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se menos que 1 (representa 33% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se menos de 1 (representa 33% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se mais de 2 (representa 15% do cluster e possui lift ALTO), menos de 1 (representa 44% do cluster e possui lift MEDIO);
+
+
+
+Destaques do cluster 6
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica faixa etária destaca-se 60+ anos (representa 37% do cluster e possui lift MEDIO);
+ - Na caracteristica numero de pedidos destaca-se 4 a 7 (representa 30% do cluster e possui lift MEDIO);
+ - Na caracteristica média de preço do pedido destaca-se R$3 e R$12 (representa 34% do cluster e possui lift MEDIO);
+ - Na caracteristica tipo de oferta mais usada destaca-se desconto (representa 61% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 0% a 17% (representa 57% do cluster e possui lift ALTISSIMO), 17% a 33% (representa 34% do cluster e possui lift MEDIO);
+ - Na caracteristica dias para usar uma oferta destaca-se mais que 4 (representa 36% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se menos que 1 (representa 32% do cluster e possui lift ALTO), mais que 3 (representa 28% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 0% a 33% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 0% a 33% (representa 81% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 0% a 33% (representa 99% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 0% a 50% (representa 68% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 0% a 33% (representa 78% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 0% (representa 46% do cluster e possui lift MEDIO), 25% a 100% (representa 40% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se 0% a 50% (representa 50% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se abaixo de 67% (representa 95% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se abaixo de 75% (representa 88% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se abaixo de 67% (representa 95% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 99% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se abaixo de 60% (representa 81% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 87% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se abaixo de 50% (representa 71% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se abaixo de 50% (representa 43% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se menos de 4 (representa 52% do cluster e possui lift ALTO), 4 a 5 (representa 28% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se menos de 3 (representa 41% do cluster e possui lift ALTO), 3 a 5 (representa 51% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se menos de 4 (representa 52% do cluster e possui lift ALTO), 4 a 5 (representa 28% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se menos de 2 (representa 67% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se 3 a 4 (representa 31% do cluster e possui lift ALTO), menos 3 (representa 44% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se menos que 1 (representa 38% do cluster e possui lift MEDIO), 1 a 2 (representa 35% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se 1 a 2 (representa 41% do cluster e possui lift ALTO), 2 a 3 (representa 21% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se 1 a 2 (representa 19% do cluster e possui lift ALTO), menos de 1 (representa 46% do cluster e possui lift MEDIO);
+
+
+
+Destaques do cluster 7
+
+Descreva as principais carateristicas que difernciam cada um dos clusters de clientes:
+ - Na caracteristica faixa etária destaca-se 60+ anos (representa 39% do cluster e possui lift MEDIO);
+ - Na caracteristica média de preço do pedido destaca-se acima de R$28 (representa 9% do cluster e possui lift ALTO), R$3 e R$12 (representa 31% do cluster e possui lift MEDIO);
+ - Na caracteristica tipo de oferta mais usada destaca-se bogo (representa 49% do cluster e possui lift MEDIO), desconto (representa 51% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de pedidos com oferta destaca-se 0% a 17% (representa 33% do cluster e possui lift ALTO), 17% a 33% (representa 43% do cluster e possui lift ALTO);
+ - Na caracteristica dias para usar uma oferta destaca-se menos que 2 (representa 27% do cluster e possui lift ALTO), 2 (representa 27% do cluster e possui lift ALTO), 2 a 4 (representa 23% do cluster e possui lift ALTO);
+ - Na caracteristica dias para ver uma oferta destaca-se menos que 1 (representa 30% do cluster e possui lift ALTO), 1 a 2 (representa 25% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas e usadas destaca-se 33% a 71% (representa 97% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por celular e usadas destaca-se 33% a 71% (representa 81% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por email e usadas destaca-se 33% a 71% (representa 97% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas recebidas por social e usadas destaca-se 50% a 89% (representa 40% do cluster e possui lift ALTISSIMO), mais que 89% (representa 31% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas por web e usadas destaca-se 33% a 75% (representa 82% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica percentual de ofertas bogo recebidas e usadas destaca-se 25% a 100% (representa 71% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas desconto recebidas e usadas destaca-se 0% a 50% (representa 29% do cluster e possui lift ALTISSIMO), acima de 50% (representa 46% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas recebidas e vistas destaca-se 67% a 88% (representa 62% do cluster e possui lift ALTISSIMO), abaixo de 67% (representa 38% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por celular e vistas destaca-se abaixo de 75% (representa 50% do cluster e possui lift ALTO), acima de 75% (representa 50% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por email e vistas destaca-se 67% a 88% (representa 62% do cluster e possui lift ALTISSIMO), abaixo de 67% (representa 38% do cluster e possui lift ALTO);
+ - Na caracteristica percentual de ofertas recebidas por social e vistas destaca-se acima de 0% (representa 98% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas recebidas por web e vistas destaca-se 60% a 90% (representa 62% do cluster e possui lift ALTISSIMO), abaixo de 60% (representa 30% do cluster e possui lift MEDIO);
+ - Na caracteristica percentual de ofertas bogo recebidas e vistas destaca-se acima de 0% (representa 91% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas desconto recebidas e vistas destaca-se abaixo de 50% (representa 40% do cluster e possui lift MEDIO), 50% a 100% (representa 55% do cluster e possui lift BAIXO);
+ - Na caracteristica percentual de ofertas informacional recebidas e vistas destaca-se abaixo de 50% (representa 33% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas destaca-se 4 a 5 (representa 33% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por celular destaca-se 3 a 5 (representa 50% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por email destaca-se 4 a 5 (representa 33% do cluster e possui lift ALTISSIMO);
+ - Na caracteristica quantidade de ofertas recebidas por social destaca-se 2 a 3 (representa 26% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas recebidas por web destaca-se 3 a 4 (representa 29% do cluster e possui lift ALTO), 4 a 6 (representa 29% do cluster e possui lift ALTO);
+ - Na caracteristica quantidade de ofertas bogo recebidas destaca-se 1 a 2 (representa 32% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas desconto recebidas destaca-se 2 a 3 (representa 19% do cluster e possui lift ALTO), 1 a 2 (representa 34% do cluster e possui lift MEDIO);
+ - Na caracteristica quantidade de ofertas informacional recebidas destaca-se menos de 1 (representa 46% do cluster e possui lift MEDIO);

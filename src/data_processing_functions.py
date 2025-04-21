@@ -89,3 +89,60 @@ def show_histogram_plot(df,
     plt.title("Histograma de credit_card_limit")
     plt.tight_layout()
     plt.show()
+
+def create_dummies_for_column(df,
+                              col_name:str):
+    # Coletando todos os tipos de oferta unicos
+    unique_offer_types = (df
+        .select(col_name)
+        # Coletando os valores unicos dos tipos de oferta 
+        .distinct()
+        .rdd.flatMap(lambda x: x)
+        .collect()
+    )
+
+    # Gerando uma coluna dummie para cada 
+    for ot in unique_offer_types:
+        df = df.withColumn(
+            f"{col_name}_{ot}",
+            F.when(F.col(col_name) == ot, 1).otherwise(0)
+        )
+
+    del(unique_offer_types, ot)
+
+    return df
+
+def column_default_categorizer(df,
+                               col_name:str,
+                               is_percentage:bool=False):
+    # Coletando os quartis
+    q1, q2, q3 = df.approxQuantile(col_name, [0.25, 0.5, 0.75], 0.01)
+    if not is_percentage:
+        classes = [
+            f"01_Abaixo_de_{round(q1)}",
+            f"02_Entre_{round(q1)}_e_{round(q2)}",
+            f"03_Entre_{round(q2)}_e_{round(q3)}",
+            f"04_Acima_de_{round(q3)}",
+            f"00_Sem_dados",
+        ]
+    elif is_percentage:
+        classes = [
+            f"01_Abaixo_de_{round(q1*100)}%",
+            f"02_Entre_{round(q1*100)}%_e_{round(q2*100)}%",
+            f"03_Entre_{round(q2*100)}%_e_{round(q3*100)}%",
+            f"04_Acima_de_{round(q3*100)}%",
+            f"00_Sem_dados",
+        ]
+
+    # Alterando os valores para faixas
+    df = (df
+        .withColumn(col_name,
+            F.when(F.col(col_name) <= q1, classes[0])
+            .when((F.col(col_name) > q1) & (F.col(col_name) <= q2), classes[1])
+            .when((F.col(col_name) > q2) & (F.col(col_name) <= q3), classes[2])
+            .when(F.col(col_name) > q3, classes[3])
+            .otherwise(classes[4])
+    ))
+
+    return df
+    
